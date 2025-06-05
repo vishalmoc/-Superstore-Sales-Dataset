@@ -27,3 +27,6 @@ Utilize data aggregation, indexing, and efficient data modeling to optimize perf
 What chart types do you use for trend analysis?
 
 Line charts, area charts, and bar charts are commonly used for analyzing trends over time.
+
+
+dataset link :- https://www.kaggle.com/datasets/larryt2003/superstore-sales-dataset-2015-2018
